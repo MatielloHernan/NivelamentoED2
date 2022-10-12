@@ -1,3 +1,3 @@
 Questao 3 - nivelamento ed2
 
-Sim. Para isso é necessário pegar cada caractere dá string com o "charAt" e adicionar(pull) cada caractere a pilha. Depois que a frase toda estiver na pilha desempilharesmos(pop) dando um print em cada letra(char) até formar a frase inteira de forma contrária. O sistema de LIFO da pilha cuidará de inverter a frase.
+Sim. Para isso é necessário pegar cada caractere da string com o "charAt" e adicionar(pull) cada caractere a pilha. Depois que a frase toda estiver na pilha desempilharesmos(pop) dando um print em cada letra(char) até formar a frase inteira de forma contrária. O sistema de LIFO da pilha cuidará de inverter a frase.
